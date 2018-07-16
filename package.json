@@ -21,7 +21,7 @@
     "events-history"
   ],
   "dependencies": {
-    "solidity-shared-lib": "ChronoBank/solidity-shared-lib.git#develop"
+    "solidity-shared-lib": "ChronoBank/solidity-shared-lib.git#v0.2.2"
   },
   "repository": {
     "type": "git",

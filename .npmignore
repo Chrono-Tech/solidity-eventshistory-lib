@@ -7,7 +7,10 @@ contracts/stubs
 contracts/Migrations.sol
 
 .solcover*
+coverage/
+coverage.json
 
+.travis*
 .gitattributes
 .eslint*
 .solium*
