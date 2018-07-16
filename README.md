@@ -1,4 +1,4 @@
-# Events History smart contracts library [![Build Status](https://travis-ci.org/ChronoBank/solidity-eventshistory-lib.svg?branch=develop)](https://travis-ci.org/ChronoBank/solidity-eventshistory-lib) [![Coverage Status](https://coveralls.io/repos/github/ChronoBank/solidity-eventshistory-lib/badge.svg?branch=develop)](https://coveralls.io/github/ChronoBank/solidity-eventshistory-lib?branch=develop)
+# Events History smart contracts library [![Build Status](https://travis-ci.org/ChronoBank/solidity-eventshistory-lib.svg?branch=master)](https://travis-ci.org/ChronoBank/solidity-eventshistory-lib) [![Coverage Status](https://coveralls.io/repos/github/ChronoBank/solidity-eventshistory-lib/badge.svg?branch=master)](https://coveralls.io/github/ChronoBank/solidity-eventshistory-lib?branch=master)
 
 Part of [LaborX project](https://github.com/ChronoBank). Organizes a set of smart contracts that can manage events emitting. _Using this approach all events should have their own public function for emitting_!
 
